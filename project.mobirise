@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -395,8 +395,8 @@
     },
     "rerum.html": {
       "settings": {
-        "meta_descr": "RERUM  IS AN ARCHITECTURE EXPO .....",
-        "title": "rerum",
+        "meta_descr": "RERUM  is the Architectural Exhibition .....",
+        "title": "Rerum",
         "order": 1
       },
       "components": [
@@ -1041,7 +1041,7 @@
     "programmes.html": {
       "settings": {
         "meta_descr": "Programmes conducted by MASA ....",
-        "title": "programmes",
+        "title": "Programmes",
         "order": 2
       },
       "components": [
@@ -1236,7 +1236,7 @@
     "gallery.html": {
       "settings": {
         "meta_descr": "",
-        "title": "gallery",
+        "title": "Gallery",
         "order": 3
       },
       "components": [
