@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "rerum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,14 +31,15 @@
     "versionFirst": "4.8.4",
     "siteFonts": [],
     "uniqCompNum": 43,
-    "versionPublish": "4.8.4"
+    "versionPublish": "4.8.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "MASA",
+        "meta_descr": "MALABAR ARCHITECTURE STUDENTS ASSOCIATION ....",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -394,7 +395,7 @@
     },
     "rerum.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "RERUM  IS AN ARCHITECTURE EXPO .....",
         "title": "rerum",
         "order": 1
       },
@@ -1039,7 +1040,7 @@
     },
     "programmes.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Programmes conducted by MASA ....",
         "title": "programmes",
         "order": 2
       },
@@ -1234,7 +1235,7 @@
     },
     "gallery.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "",
         "title": "gallery",
         "order": 3
       },
