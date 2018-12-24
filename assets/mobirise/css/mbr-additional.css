@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 
 
 
@@ -513,6 +516,9 @@ h6,
 #social-buttons4-d .btn-social {
   color: #fff;
 }
+
+
+
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -579,10 +585,17 @@ h6,
 }
 #slider-n P {
   text-align: left;
+  font-family: 'Oxygen', sans-serif;
 }
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
+}
+#header3-u .mbr-section-subtitle {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-u .mbr-section-subtitle SPAN {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #msg-box3-q .mbr-section-title,
 #msg-box3-q p {

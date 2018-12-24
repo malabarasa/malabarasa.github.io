@@ -249,7 +249,7 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM",
-          "text": "RERUM is an ARCHITECTURAL EXHIBITION FOR D.Arch students conducted by MASA (Malabar Architecture Students Association)",
+          "text": "MASA HAS CONDUCTED AN EXHIBITION NAMED &nbsp;'RERUM' WHICH WAS HIGHLY APPRECIATED. THE EXHIBITION FOCUSED ON LATEST TRENDS IN THE ARCHITECTURE AND ALSO IT PORTRAYED THE EVOLUTION OF ARCHITECTURE.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"rerum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -280,7 +280,7 @@
             "bgColor": "#636363"
           },
           "title": "ABOUT US,",
-          "meta": "We are a group of architecture students from MPTC KOTTAKKAL, KERALA.We started MASA on 06th september 2018.We supports all students with talents&nbsp;",
+          "meta": "THE DEPARTMENT OF  ARCHITECURE WAS STARTED IN THE YEAR 2016, WHICH OFFER DIPLOMA IN ARCHITECTURE WITH ANUAL INTAKE OF 60 . THE DEPARTMENT IS GUIDED BY EMINENT FACULTY MEMBER,THE DEPARTMENT OF  ARCHITECURE WAS STARTED IN THE YEAR 2016, WHICH OFFER DIPLOMA IN ARCHITECTURE WITH ANUAL INTAKE OF 60 . THE DEPARTMENT IS GUIDED BY EMINENT FACULTY MEMBER,THE DEPARTMENT OF  ARCHITECURE WAS STARTED IN THE YEAR 2016, WHICH OFFER DIPLOMA IN ARCHITECTURE WITH ANUAL INTAKE OF 60 . THE DEPARTMENT IS GUIDED BY EMINENT FACULTY MEMBER, EXPERIENCED SUBJECT SPECIALISTS AND PRACTISING ARCHITECTS.THE DEPARTMENT HAS NECESSARY INFRASTRUCTURE AS PER NORMS.IN 2018 THE DEPARTMENT HAS CREATED AN ASSOCIATION NAMED ' MASA'.",
           "_tags": [
             "Theme"
           ],
@@ -507,7 +507,7 @@
                 "title": "RERUM 1.0",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "UKIJPOK[TFYUGIOJPKUYTGDH &nbsp;TDTUT7 YTYU 6YRYR YRU6U UTYUTYU",
+                "text": "\" I take the opportunity to congratulate you all on your decision to conduct '<b>RERUM' </b>an &nbsp;Architectural Bonaza.Conducting fest will help to bring out your inborn hidden talents which will help you to succeed as an Architect.\"<br><br><b>Prof. V M ANWAR SADATH</b><br>Principal<br>MPTC KOTTAKKAL",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"rerum.html#msg-box3-o\" data-toolbar=\"-mbrBtnMove\">LAERN MORE</a> "
               },
               {
@@ -521,7 +521,7 @@
                 "title": "RERUM 2.0",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "HGJ,LI7GHIK",
+                "text": "\"This expo insights into the trends shaping architecture and building and prepare for the ever changing built environment for the year ahead.\"<br><br><b>Prof. M K USMAN</b><br>HOD Dep. of Architecture<br>MPTC KOTTAKKAL",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"rerum.html#msg-box3-r\" data-toolbar=\"-mbrBtnMove\">LAERN MORE</a> "
               },
               {
@@ -535,7 +535,7 @@
                 "title": "RERUM 3.0",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "FGYHJCHVJBJHK,KUGK",
+                "text": "COMING SOON .....",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rerum.html#msg-box3-q\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               }
             ]
@@ -551,7 +551,9 @@
               "text-align": "left"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -559,6 +561,14 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           },
           "_params": {
@@ -568,7 +578,7 @@
             "bgColor": "#fff"
           },
           "title": "WHAT IS RERUM ?",
-          "meta": "HVC FHGCBSDG D BDUBNMUGV BYTNFGHMDNFH",
+          "meta": "<span style=\"font-style: normal;\">MASA HAS CONDUCTED AN EXHIBITION NAMED  'RERUM' WHICH WAS HIGHLY APPRECIATED. THE EXHIBITION FOCUSED ON LATEST TRENDS IN THE ARCHITECTURE AND ALSO IT PORTRAYED THE EVOLUTION OF ARCHITECTURE.</span>",
           "_tags": [
             "Theme"
           ],
@@ -602,7 +612,7 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM 3.0",
-          "text": "<p>RERUM 3.0 IS COMING SOON</p>",
+          "text": "Comig soon",
           "_tags": [
             "Theme"
           ],
@@ -749,7 +759,7 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM 2.0",
-          "text": "JHCFMKJNMN BMVGJYGKBJM",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -896,7 +906,7 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM 1.0",
-          "text": "RERUM 1.0 JNDSLGMDD BDHFU",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -1154,7 +1164,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": true,
@@ -1170,16 +1180,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.2
           },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "TIME LINE",
+          "subtitle": "",
           "testimonial": [
             {
               "authorName": "RERUM 3.0",
               "authorBio": "COMING SOON",
-              "text": "ZKJHNUVHDKMCGJV,HB,,DVKKHBKHKB",
+              "text": "coming soon",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x107.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x120.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1193,10 +1203,10 @@
             {
               "authorName": "PARADIGM 18",
               "authorBio": "01 OCT 2018",
-              "text": "YTRHJYL8U;'K,M DBM,GFGHK,TOYIUUJGHJFRJ",
+              "text": "ARCHITECTURE DAY CELEBRATION",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-2-160x107.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-3-160x107.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1210,10 +1220,10 @@
             {
               "authorName": "MASA INAUGURATION",
               "authorBio": "06 SEPT 2018",
-              "text": "<p>DXFCGHJKLBBNMBNKLK</p>",
+              "text": "<p>MASA OFFICIAL INAUGURATION</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x107.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
