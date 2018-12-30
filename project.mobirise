@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "Registration.html",
+    "currentPage": "rerum.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -516,7 +516,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<span style=\"font-style: normal;\">ON &nbsp;2019 JAN 25,26,27</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"RERUMREGISTER.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
@@ -624,7 +624,7 @@
           },
           "title": "RERUM 3.0",
           "text": "On 2019 jan 25,26,27",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"RERUMREGISTER.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
           "_tags": [
             "Theme"
           ],
