@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "RERUMREGISTER.html",
+    "currentPage": "Registration.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2025,10 +2025,10 @@
         }
       ]
     },
-    "RERUMREGISTER.html": {
+    "Registration.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "RERUM REGISTER",
+        "title": "Registration",
         "order": 1
       },
       "components": [
