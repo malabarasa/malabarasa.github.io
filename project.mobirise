@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "rerum.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 56,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png",
     "siteUrl": "https://www.masa.cf/sitemap.xml",
@@ -405,7 +405,7 @@
       "settings": {
         "meta_descr": "RERUM  is the Architectural Exhibition .....",
         "title": "Rerum",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -516,7 +516,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<span style=\"font-style: normal;\">ON &nbsp;2019 JAN 25,26,27</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rerum.html#header5-17\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
@@ -624,7 +624,7 @@
           },
           "title": "RERUM 3.0",
           "text": "On 2019 jan 25,26,27",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -1013,7 +1013,7 @@
       "settings": {
         "meta_descr": "Programmes conducted by MASA ....",
         "title": "Programmes",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1259,7 +1259,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Gallery",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2025,10 +2025,10 @@
         }
       ]
     },
-    "Registration.html": {
+    "thankyou.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Registration",
+        "meta_descr": "",
+        "title": "thank you",
         "order": 1
       },
       "components": [
@@ -2116,7 +2116,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-19"
+          "_anchor": "ext_menu-1h"
         },
         {
           "_params": {
@@ -2136,20 +2136,33 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-1a"
+          "_anchor": "footer1-1i"
         },
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1330.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2158,20 +2171,14 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "RERUM '19",
-          "text": "<span style=\"font-style: normal;\">2019 JAN 25,26,27</span><br><b style=\"font-style: normal;\">MPTC KOTTAKKAL</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
+          "title": "Thank you!",
+          "text": "<span style=\"font-style: normal;\"><b>You have&nbsp;successfully registered</b></span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">Another &nbsp;Registration</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1d",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
+          "_name": "header5",
+          "_anchor": "header5-1j"
         }
       ]
     }
