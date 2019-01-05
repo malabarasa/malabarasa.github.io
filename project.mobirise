@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MASA",
-    "currentPage": "Register.html",
+    "currentPage": "rerum.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -180,7 +180,7 @@
             {
               "authorName": "15-nov-2018",
               "authorBio": "User",
-              "text": "RERUM 3.0 is decided to conduct on 2019 jan 25 , 26 &amp; 27",
+              "text": "RERUM 3.0 is decided to conduct on 2019 jan 24 , 25 &amp; 26",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -515,8 +515,8 @@
                 "title": "RERUM 3.0",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<span style=\"font-style: normal;\">ON &nbsp;2019 JAN 25,26,27</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"rerum.html#header5-17\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
+                "text": "<span style=\"font-style: normal;\">ON &nbsp;2019 JAN 24,25 &amp; 26</span>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
@@ -623,8 +623,8 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM 3.0",
-          "text": "On 2019 jan 25,26,27",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
+          "text": "On 2019 jan 24,25 &amp; 26",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -2173,7 +2173,7 @@
           },
           "title": "Thank you!",
           "text": "<span style=\"font-style: normal;\"><b>You have&nbsp;successfully registered</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">Another &nbsp;Registration</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.amecaregistration.cf\" data-toolbar=\"-mbrBtnMove\">Another &nbsp;Registration</a>",
           "_tags": [
             "Theme"
           ],
@@ -2316,8 +2316,8 @@
             "overlayOpacity": 0.5
           },
           "title": "RERUM '19",
-          "text": "<span style=\"font-style: normal;\">2019 JAN 25,26,27<br><b>MPTC KOTTAKKAL</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/Eventregistration/formperma/HD_zI-31Ni3Iom5lBHsSawPrsjhYH3vtTUTWQTg4UtQ\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
+          "text": "<span style=\"font-style: normal;\">2019 JAN 24 , 25 &amp; 26<br><b>MPTC KOTTAKKAL</b></span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.amecaregistration.cf\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
           "_tags": [
             "Theme"
           ],
